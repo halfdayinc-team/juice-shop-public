@@ -9,6 +9,6 @@ app.get("search", function handler(req, res) {
     req.params.category +
     "' ORDER BY PRICE";
   pool.query(query1, [], function(err, results) {
-    // process results
+    // process resultsbb
   });
 });
