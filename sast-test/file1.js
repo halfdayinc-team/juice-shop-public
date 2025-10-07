@@ -1,5 +1,7 @@
 // This is a silly comment
 
+// another silly comment
+
 // --- CONFIGURATION CONSTANTS (Lines 1-50) ---
 const MAX_DATA_POINTS = 500;
 const CHART_WIDTH = 800;
