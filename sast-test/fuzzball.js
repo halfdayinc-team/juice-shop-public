@@ -8,6 +8,7 @@ function getBestMatch(query, choices) {
 	return result.length > 0 ? result[0][0] : null;
 }
 
+
 // Example usage
 const choices = ['apple', 'banana', 'grape', 'orange'];
 const query = 'appl';
